@@ -1,0 +1,304 @@
+Preset 1 :
+  Name : Pre1
+  XfadeACV : 1B
+  XfadeAWidth : 5.00
+  Channel 1 :
+    PlayMode : 1
+    LinFM : 2A 1.00
+    PitchCV : 2B 0.50
+    PMIndexMod : 2A 1.00
+    PanMod : 2C 1.00
+    LoopMode : 1
+    XfadeGroup : A
+    ZonesCV : 1C
+    ZonesRT : 1
+    Zone 1 :
+      Sample : 11L-serge_modular_wavesh-1742491468498.wav
+      MinVoltage : +4.52
+    Zone 2 :
+      Sample : 11L-kendang_gamelan_drum-1742491551132.wav
+      MinVoltage : +4.00
+    Zone 3 :
+      Sample : 11L-sine_wave-1742491298378.wav
+      MinVoltage : +3.54
+    Zone 4 :
+      Sample : 11L-ghostly_voice_in_a_c-1742491252858.wav
+      MinVoltage : +3.00
+    Zone 5 :
+      Sample : 11L-tube_bells-1742491266689.wav
+      Side : 1
+      MinVoltage : +2.50
+    Zone 6 :
+      Sample : 11L-electromagnetic_micr-1742491383913.wav
+      MinVoltage : +1.99
+    Zone 7 :
+      Sample : 11L-electromagnetic_micr-1742491395726.wav
+      Side : 1
+      MinVoltage : +1.43
+    Zone 8 :
+      Sample : 11L-Malfunctioning_mecha-1742491302817.wav
+      Side : 1
+      MinVoltage : -5.00
+  Channel 2 :
+    PlayMode : 1
+    LinFM : 2A 1.00
+    PitchCV : 2B 0.50
+    PMIndexMod : 2A 1.00
+    PanMod : 2C 1.00
+    ChannelMode : 2
+    LoopMode : 1
+    XfadeGroup : A
+    ZonesCV : 1C
+    Zone 1 :
+      Sample : 11L-kendang_old_tape_bin-1742491564442.wav
+      Side : 1
+      MinVoltage : +4.52
+    Zone 2 :
+      Sample : 11L-anechoic_chamber_pap-1742491270003.wav
+      MinVoltage : +4.00
+    Zone 3 :
+      Sample : 11L-droning_pump_organ_o-1742491505378.wav
+      MinVoltage : +3.54
+    Zone 4 :
+      Sample : 11L-serge_modular_wavesh-1742491475741.wav
+      MinVoltage : +3.00
+    Zone 5 :
+      Sample : 11L-droning_low_pitched_-1742491239796.wav
+      Side : 1
+      MinVoltage : +2.50
+    Zone 6 :
+      Sample : 11L-fire_crackling_full_-1742491348425.wav
+      MinVoltage : +1.99
+    Zone 7 :
+      Sample : 11L-droning_pump_organ_m-1742491490119.wav
+      Side : 1
+      MinVoltage : +1.43
+    Zone 8 :
+      Sample : 11L-kendang_gamelan_drum-1742491545300.wav
+      Side : 1
+      MinVoltage : -5.00
+  Channel 3 :
+    PlayMode : 1
+    LinFM : 2A 1.00
+    PitchCV : 2B 0.50
+    PMIndexMod : 2A 1.00
+    PanMod : 2C 1.00
+    LoopStartMod : 1A 1.00
+    LoopLengthMod : 1B 1.00
+    ChannelMode : 3
+    LoopMode : 1
+    XfadeGroup : A
+    ZonesCV : 1C
+    ZonesRT : 1
+    Zone 1 :
+      Sample : 11L-sine_wave-1742491279257.wav
+      MinVoltage : +4.52
+    Zone 2 :
+      Sample : 11L-Malfunctioning_mecha-1742491304016.wav
+      MinVoltage : +4.00
+    Zone 3 :
+      Sample : 11L-electromagnetic_micr-1742491412575.wav
+      MinVoltage : +3.54
+    Zone 4 :
+      Sample : 11L-serge_modular_wavesh-1742491468498.wav
+      MinVoltage : +3.00
+    Zone 5 :
+      Sample : 11L-electromagnetic_micr-1742491383913.wav
+      Side : 1
+      MinVoltage : +2.50
+    Zone 6 :
+      Sample : 11L-The_Bobolink-1742491311966.wav
+      MinVoltage : +1.99
+    Zone 7 :
+      Sample : 11L-detuned_violins_play-1742491449446.wav
+      Side : 1
+      MinVoltage : +1.43
+    Zone 8 :
+      Sample : 11L-sine_wave-1742491298615.wav
+      Side : 1
+      MinVoltage : -5.00
+  Channel 4 :
+    PlayMode : 1
+    LinFM : 2A 1.00
+    PitchCV : 2B 0.50
+    PMIndexMod : 2A 1.00
+    PanMod : 2C 1.00
+    ChannelMode : 2
+    LoopMode : 1
+    XfadeGroup : A
+    ZonesCV : 1C
+    Zone 1 :
+      Sample : 11L-serge_modular_wavesh-1742491475741.wav
+      MinVoltage : +4.52
+    Zone 2 :
+      Sample : 11L-cannon_fire-1742491376760.wav
+      MinVoltage : +4.00
+    Zone 3 :
+      Sample : 11L-sine_wave-1742491282662.wav
+      MinVoltage : +3.54
+    Zone 4 :
+      Sample : 11L-droning_low_pitched_-1742491240794.wav
+      MinVoltage : +3.00
+    Zone 5 :
+      Sample : 11L-droning_low_pitched_-1742491242402.wav
+      Side : 1
+      MinVoltage : +2.50
+    Zone 6 :
+      Sample : 11L-kendang_gamelan_drum-1742491553504.wav
+      MinVoltage : +1.99
+    Zone 7 :
+      Sample : 11L-electromagnetic_micr-1742491394475.wav
+      Side : 1
+      MinVoltage : +1.43
+    Zone 8 :
+      Sample : 11L-Malfunctioning_mecha-1742491300509.wav
+      Side : 1
+      MinVoltage : -5.00
+  Channel 5 :
+    PlayMode : 1
+    LinFM : 2A 1.00
+    PitchCV : 2B 0.50
+    PMIndexMod : 2A 1.00
+    PanMod : 2C 1.00
+    ChannelMode : 3
+    LoopMode : 1
+    XfadeGroup : A
+    ZonesCV : 1C
+    ZonesRT : 1
+    Zone 1 :
+      Sample : 11L-ship_hull_breach-1742491256050.wav
+      MinVoltage : +4.52
+    Zone 2 :
+      Sample : 11L-anechoic_chamber_pap-1742491270541.wav
+      MinVoltage : +4.00
+    Zone 3 :
+      Sample : 11L-cd_skipping_stereo_g-1742491463376.wav
+      MinVoltage : +3.54
+    Zone 4 :
+      Sample : 11L-soft_female_speech_a-1742491276340.wav
+      MinVoltage : +3.00
+    Zone 5 :
+      Sample : 11L-lyrebird-1742491330745.wav
+      Side : 1
+      MinVoltage : +2.50
+    Zone 6 :
+      Sample : 11L-droning_pump_organ_o-1742491505378.wav
+      MinVoltage : +1.99
+    Zone 7 :
+      Sample : 11L-The_Bobolink-1742491322488.wav
+      Side : 1
+      MinVoltage : +1.43
+    Zone 8 :
+      Sample : 11L-ghostly_voice_in_a_c-1742491253948.wav
+      Side : 1
+      MinVoltage : -5.00
+  Channel 6 :
+    PlayMode : 1
+    LinFM : 2A 1.00
+    PitchCV : 2B 0.50
+    PMIndexMod : 2A 1.00
+    PanMod : 2C 1.00
+    ChannelMode : 2
+    XfadeGroup : A
+    ZonesCV : 1C
+    Zone 1 :
+      Sample : 11L-serge_modular_wavesh-1742491471854.wav
+      MinVoltage : +4.52
+    Zone 2 :
+      Sample : 11L-droning_low_pitched_-1742491242304.wav
+      MinVoltage : +4.00
+    Zone 3 :
+      Sample : 11L-cd_skipping_stereo_g-1742491463376.wav
+      MinVoltage : +3.54
+    Zone 4 :
+      Sample : 11L-Malfunctioning_mecha-1742491304016.wav
+      MinVoltage : +3.00
+    Zone 5 :
+      Sample : 11L-lyrebird-1742491339520.wav
+      Side : 1
+      MinVoltage : +2.50
+    Zone 6 :
+      Sample : 11L-fire_crackling_full_-1742491344134.wav
+      MinVoltage : +1.99
+    Zone 7 :
+      Sample : 11L-soft_female_speech_a-1742491277645.wav
+      Side : 1
+      MinVoltage : +1.43
+    Zone 8 :
+      Sample : 11L-pump_organ_playing_m-1742491538558.wav
+      Side : 1
+      MinVoltage : -5.00
+  Channel 7 :
+    PlayMode : 1
+    LinFM : 2A 1.00
+    PitchCV : 2B 0.50
+    PMIndexMod : 2A 1.00
+    PanMod : 2C 1.00
+    ChannelMode : 3
+    LoopMode : 1
+    XfadeGroup : A
+    ZonesCV : 1C
+    ZonesRT : 1
+    Zone 1 :
+      Sample : 11L-lyrebird-1742491332035.wav
+      MinVoltage : +4.52
+    Zone 2 :
+      Sample : 11L-anechoic_chamber_pap-1742491270003.wav
+      MinVoltage : +4.00
+    Zone 3 :
+      Sample : 11L-electromagnetic_micr-1742491395726.wav
+      MinVoltage : +3.54
+    Zone 4 :
+      Sample : 11L-asmr_mic_tapping-1742491229932.wav
+      MinVoltage : +3.00
+    Zone 5 :
+      Sample : 11L-fire_crackling_full_-1742491344134.wav
+      Side : 1
+      MinVoltage : +2.50
+    Zone 6 :
+      Sample : 11L-cd_skipping_stereo_g-1742491458253.wav
+      MinVoltage : +1.99
+    Zone 7 :
+      Sample : 11L-electromagnetic_micr-1742491383913.wav
+      Side : 1
+      MinVoltage : +1.43
+    Zone 8 :
+      Sample : 11L-sine_wave-1742491291266.wav
+      Side : 1
+      MinVoltage : -5.00
+  Channel 8 :
+    PlayMode : 1
+    LinFM : 2A 1.00
+    PitchCV : 2B 0.50
+    PMIndexMod : 2A 1.00
+    PanMod : 2C 1.00
+    ChannelMode : 2
+    XfadeGroup : A
+    ZonesCV : 1C
+    Zone 1 :
+      Sample : 11L-soft_female_speech_a-1742491277645.wav
+      MinVoltage : +4.52
+    Zone 2 :
+      Sample : 11L-electromagnetic_micr-1742491380802.wav
+      MinVoltage : +4.00
+    Zone 3 :
+      Sample : 11L-anechoic_chamber_pap-1742491267921.wav
+      MinVoltage : +3.54
+    Zone 4 :
+      Sample : 11L-lyrebird-1742491339520.wav
+      MinVoltage : +3.00
+    Zone 5 :
+      Sample : 11L-cd_skipping_stereo_g-1742491461449.wav
+      Side : 1
+      MinVoltage : +2.50
+    Zone 6 :
+      Sample : 11L-anechoic_chamber_pap-1742491269192.wav
+      MinVoltage : +1.99
+    Zone 7 :
+      Sample : 11L-anechoic_chamber_pap-1742491270003.wav
+      Side : 1
+      MinVoltage : +1.43
+    Zone 8 :
+      Sample : 11L-kendang_gamelan_drum-1742491545300.wav
+      Side : 1
+      MinVoltage : -5.00
